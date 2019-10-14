@@ -1,0 +1,2 @@
+import './SearchActions';
+import './CoinsActions';
