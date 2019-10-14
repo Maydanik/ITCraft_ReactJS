@@ -1,0 +1,13 @@
+.coin-card {
+  width: 33%;
+  border: 1px solid blue;
+  margin: 2px;
+  padding: 2px;
+  overflow: hidden;
+}
+
+.card-text {
+  font-size: 30px;
+}
+
+
