@@ -15,10 +15,6 @@ class AppComponent extends Component {
     getCoinsList: PropTypes.func,
   };
 
-  // filterListById = (list, id) => (
-  //   list.find(coin => coin.Id === id)
-  // );
-
   componentDidMount() {
     this.props.getCoinsList();
   }
